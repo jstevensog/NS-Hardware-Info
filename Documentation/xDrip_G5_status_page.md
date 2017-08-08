@@ -1,4 +1,4 @@
-##### H5 These notes are just a record of discussions and experiences from people who have done battery swaps, and some of the xDrip devs. They are not definitive instructions. Use at your own risk.
+###### H5 These notes are just a record of discussions and experiences from people who have done battery swaps, and some of the xDrip devs. They are not definitive instructions. Use at your own risk.
 
 1. Firmware Version:
 * New G5 firmware from Dexcom is 1.0.4.10, released November 2016 in the US. From this version on you need to have `Authenticate G5 before each read` checked in `G5 Debug Settings`.
