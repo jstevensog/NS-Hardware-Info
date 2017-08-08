@@ -1,6 +1,6 @@
 ## H2 General Tips For G4 and G5 Battery Swaps
 
-Try at your own risk! Below are some experiences of others collated for future reference
+##### H5 Try at your own risk! Below are some experiences of others collated for future reference
 
 * If soldering the top tabs, be very careful about overheating the battery internals.
 * A delicate spot welder can be a good method, if you have one.
